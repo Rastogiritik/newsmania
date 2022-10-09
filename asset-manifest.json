@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsmania/static/css/main.abd64e84.css",
+    "main.js": "/newsmania/static/js/main.902f87d5.js",
+    "static/js/787.d6811ec2.chunk.js": "/newsmania/static/js/787.d6811ec2.chunk.js",
+    "index.html": "/newsmania/index.html",
+    "main.abd64e84.css.map": "/newsmania/static/css/main.abd64e84.css.map",
+    "main.902f87d5.js.map": "/newsmania/static/js/main.902f87d5.js.map",
+    "787.d6811ec2.chunk.js.map": "/newsmania/static/js/787.d6811ec2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.902f87d5.js"
+  ]
+}
